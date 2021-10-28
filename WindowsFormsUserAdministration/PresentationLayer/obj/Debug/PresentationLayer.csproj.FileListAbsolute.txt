@@ -1,0 +1,32 @@
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormAddUser.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormDeleteUser.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormEditUser.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.ForumUsers.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormAddUser.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormDeleteUser.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.FormEditUser.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.ForumUsers.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\PresentationLayer\obj\Debug\PresentationLayer.pdb

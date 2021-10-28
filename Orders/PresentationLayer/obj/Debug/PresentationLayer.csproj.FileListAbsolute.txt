@@ -1,0 +1,14 @@
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.FormOrderItems.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.Orders.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\Orders\PresentationLayer\bin\Debug\PresentationLayer.exe.config

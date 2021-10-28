@@ -1,0 +1,12 @@
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\38599\Documents\Morningstar\Faks\2. godina\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV3_4\WindowsFormsUserAdministration\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
