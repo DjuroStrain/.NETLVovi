@@ -1,0 +1,30 @@
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe.config
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.exe
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CopyComplete
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe.config
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CopyComplete
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe.config
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\ConsoleAppCalculation.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\bin\Debug\Calculation.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\ConsoleAppCalculation\obj\Debug\ConsoleAppCalculation.pdb

@@ -1,0 +1,18 @@
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\bin\Debug\Countries.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\bin\Debug\Countries.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\obj\Debug\Countries.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\obj\Debug\Countries.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\obj\Debug\Countries.csproj.CopyComplete
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\obj\Debug\Countries.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\Countries\obj\Debug\Countries.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\bin\Debug\Countries.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\bin\Debug\Countries.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\obj\Debug\Countries.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\obj\Debug\Countries.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\obj\Debug\Countries.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\obj\Debug\Countries.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\Countries\obj\Debug\Countries.pdb

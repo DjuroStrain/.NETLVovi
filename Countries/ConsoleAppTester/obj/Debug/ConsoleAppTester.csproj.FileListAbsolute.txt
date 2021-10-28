@@ -1,0 +1,12 @@
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe.config
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\ConsoleAppTester.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\ConsoleAppTester.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\Countries.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\Countries.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\obj\Debug\ConsoleAppTester.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\obj\Debug\ConsoleAppTester.csproj.CopyComplete
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\obj\Debug\ConsoleAppTester.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\ConsoleAppTester\obj\Debug\ConsoleAppTester.pdb

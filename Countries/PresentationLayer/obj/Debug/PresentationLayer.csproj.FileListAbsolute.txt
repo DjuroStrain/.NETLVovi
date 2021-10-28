@@ -1,0 +1,30 @@
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\Countries.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\Countries.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\Countries.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\Countries.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.MainForm.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\Countries\PresentationLayer\obj\Debug\PresentationLayer.pdb

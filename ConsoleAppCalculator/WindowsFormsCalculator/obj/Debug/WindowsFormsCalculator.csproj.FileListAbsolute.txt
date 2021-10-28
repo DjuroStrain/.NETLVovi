@@ -1,0 +1,38 @@
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.cache
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CopyComplete
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CopyComplete
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.dll
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\bin\Debug\Calculation.pdb
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.AssemblyReference.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.CopyComplete
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+C:\Users\durob\OneDrive\Documents\Morningstar\Faks\2. godina\3. semestar\.NET\LV1_2\ConsoleAppCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb

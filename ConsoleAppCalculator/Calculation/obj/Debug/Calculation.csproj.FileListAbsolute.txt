@@ -1,0 +1,11 @@
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\Calculation\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\Calculation\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.dll
+C:\Users\38599\Desktop\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\bin\Debug\Calculation.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\bin\Debug\Calculation.pdb
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.dll
+C:\Users\38599\Desktop\Faks-novo\.NET\LV1\ConsoleAppCalculator\Calculation\obj\Debug\Calculation.pdb
